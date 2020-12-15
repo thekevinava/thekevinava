@@ -19,6 +19,7 @@ Here are some ideas to get you started:
 | Project        | Logo           | URL           | Description | Status |
 |:------------- |:-------------:|:-------------:|:--------------:|:--------------:|
 | InstagramDiscordBot | None |[GitHub InstagramDiscordBot](https://github.com/thekevinava/InstagramDiscordBot) | A Discord & Instagram bot made with Javascript | Private |
+| CryBabyBot | None |[GitHub CryBabyBot](https://github.com/thekevinava/CryBabyBot) | A multifunctional discord bot made with Javascript | Private |
 
 # 🔧 Technologies & Tools
 
