@@ -42,6 +42,7 @@ Here are some ideas to get you started:
   <img alt="TypeScript" src="https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=typescript&logoColor=white&color=55d90f" />
   <img alt="Java" src="https://img.shields.io/badge/Code-Java-informational?style=flate&logo=java&logoColor=white&color=55d90f" />
   <img alt="Python" src="https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=55d90f" />
+  <img alt="Angular" src="https://img.shields.io/badge/Code-Angular-informational?style=flat&logo=angular&logoColor=white&color=55d90f" />
   
   <img alt="Followers" src="https://img.shields.io/github/followers/thekevinava?label=Followers&logo=github&color=e21724" />
   <img alt="Counter" src="https://komarev.com/ghpvc/?username=kevinava&color=e21724" />
