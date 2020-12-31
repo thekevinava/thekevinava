@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 ## My Projects
 | Project        | Logo           | URL           | Description | Status |
 |:------------- |:-------------:|:-------------:|:--------------:|:--------------:|
-| RandoMon | None |[GitHub](https://github.com/thekevinava/RandoMon) | A package to generate random images of Pokémon | Public |
+| RandoMon | None |[GitHub](https://github.com/thekevinava/RandoMon) | A package to generate random images of Pokémon | Private |
 | EasyAntiSpam | None |[GitHub](https://github.com/thekevinava/EasyAntiSpam) [NPM](https://www.npmjs.com/package/easyantispam) [GitBook](https://thekevinava.gitbook.io/easyantispam/) | A package to moderate URLs on Discord.Js | Public |
 | InstagramDiscordBot | None |[GitHub](https://github.com/thekevinava/InstagramDiscordBot) | A Discord & Instagram bot made with Javascript | Private |
 | CryBabyBot | None |[GitHub](https://github.com/thekevinava/CryBabyBot) | A multifunctional discord bot made with Javascript | Private |
