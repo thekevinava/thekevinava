@@ -16,10 +16,10 @@ Here are some ideas to get you started:
 # Hello there <img src="https://raw.githubusercontent.com/thekevinava/thekevinava/main/assets/wave.gif" width="30px">
 
 ## My Projects
-| Project        | Logo           | URL           | Description | Status |
+| Project        | Version           | URL           | Description | Status |
 |:------------- |:-------------:|:-------------:|:--------------:|:--------------:|
-| RandoMon | None |[GitHub](https://github.com/thekevinava/RandoMon) [NPM](https://github.com/thekevinava/RandoMon) | A package to generate random images of Pokémon | Public |
-| EasyAntiSpam | None |[GitHub](https://github.com/thekevinava/EasyAntiSpam) [NPM](https://www.npmjs.com/package/easyantispam) [GitBook](https://thekevinava.gitbook.io/easyantispam/) | A package to moderate URLs on Discord.Js | Public |
+| RandoMon | <a href="https://www.npmjs.com/package/randomon"><img alt="NPM Version" src="https://img.shields.io/npm/v/randomon"></a> |[GitHub](https://github.com/thekevinava/RandoMon) [NPM](https://github.com/thekevinava/RandoMon) | A package to generate random images of Pokémon | Public |
+| EasyAntiSpam | <a href="https://www.npmjs.com/package/easyantispam"><img alt="NPM Version" src="https://img.shields.io/npm/v/easyantispam"></a> |[GitHub](https://github.com/thekevinava/EasyAntiSpam) [NPM](https://www.npmjs.com/package/easyantispam) [GitBook](https://thekevinava.gitbook.io/easyantispam/) | A package to moderate URLs on Discord.Js | Public |
 | InstagramDiscordBot | None |[GitHub](https://github.com/thekevinava/InstagramDiscordBot) | A Discord & Instagram bot made with Javascript | Private |
 | CryBabyBot | None |[GitHub](https://github.com/thekevinava/CryBabyBot) | A multifunctional discord bot made with Javascript | Private |
 
